@@ -1,0 +1,5 @@
+home = C:\Users\utkri\AppData\Local\Python\pythoncore-3.14-64
+include-system-site-packages = false
+version = 3.14.2
+executable = C:\Users\utkri\AppData\Local\Python\pythoncore-3.14-64\python.exe
+command = C:\Users\utkri\AppData\Local\Python\pythoncore-3.14-64\python.exe -m venv c:\Users\utkri\Downloads\rideshare-20260413T052252Z-3-001\rideshare\.venv
